@@ -41,7 +41,7 @@ Think Twice AI was created to introduce a meaningful pause — helping users ref
 
 ## Technology Stack
 
-- Frontend: React + TypeScript
+- Frontend: React + TypeScript(prototype)
 - Styling: Modern UI principles (glassmorphism, soft dark mode)
 - Architecture: Single-page application
 - Platform: Web
@@ -52,7 +52,8 @@ Think Twice AI was created to introduce a meaningful pause — helping users ref
 
 ## Live Demo
 
-Live demo link will be added after deployment.
+A live deployment is planned for a future iteration.
+For this submission, a complete walkthrough of the application and interaction flow is provided in the demo video.
 
 ---
 
